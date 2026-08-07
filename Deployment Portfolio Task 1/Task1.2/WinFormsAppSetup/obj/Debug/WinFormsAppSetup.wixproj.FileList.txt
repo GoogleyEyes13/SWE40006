@@ -1,0 +1,6 @@
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.2\WinFormsAppSetup\bin\Debug\WinFormsAppSetup.msi
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.2\WinFormsAppSetup\bin\Debug\WinFormsAppSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WinFormsAppSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WinFormsAppSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WinFormsAppSetup.wixproj.BindBuiltOutputsFileListnull.txt

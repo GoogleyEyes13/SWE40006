@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WinFormsAppSetup" Language="1033" Version="1.0.0.0" Manufacturer="SwinburneStudent" UpgradeCode="e2f0a687-f99d-4306-a48b-d1c515da18f8">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="WinFormsAppSetup" Level="1">
+			<ComponentGroupRef Id="MainExecutable" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WinFormsApp" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="e2f0a687-f99d-4306-a48b-d1c515da18f8">
+				<File Id="WinFormsAppEXE" Source="$(var.WinFormsApp.TargetPath)" KeyPath="yes"/>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
+
+
+
