@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="BookManagerAppSetup" Language="1033" Version="1.0.0.0" Manufacturer="SwinburneStudent" UpgradeCode="01509953-379e-4344-9d56-1cbc83fafe85">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="BookManagerAppSetup" Level="1">
+			<ComponentGroupRef Id="MainExecutable" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="BookManagerApp" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="01509953-379e-4344-9d56-1cbc83fafe85">
+				<File Id="BookManagerAppEXE" Source="$(var.BookManagerApp.TargetPath)" KeyPath="yes" />
+				<File Id="BookLibraryDLL" Source="$(var.BookManagerApp.TargetDir)BookLibrary.dll" />
+				<File Id="BookSearchDLL" Source="$(var.BookManagerApp.TargetDir)BookSearch.dll" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

@@ -1,0 +1,3 @@
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookLibrary.dll
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookManagerApp.exe
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookSearch.dll
