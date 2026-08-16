@@ -76,11 +76,12 @@ namespace BookManagerApp
             this.button1.TabIndex = 3;
             this.button1.Text = "Search";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.NameColumn,
             this.Author,
@@ -97,21 +98,18 @@ namespace BookManagerApp
             this.NameColumn.HeaderText = "Name";
             this.NameColumn.MinimumWidth = 6;
             this.NameColumn.Name = "NameColumn";
-            this.NameColumn.Width = 125;
             // 
             // Author
             // 
             this.Author.HeaderText = "Author";
             this.Author.MinimumWidth = 6;
             this.Author.Name = "Author";
-            this.Author.Width = 125;
             // 
             // Genre
             // 
             this.Genre.HeaderText = "Genre";
             this.Genre.MinimumWidth = 6;
             this.Genre.Name = "Genre";
-            this.Genre.Width = 125;
             // 
             // Form1
             // 

@@ -12,3 +12,6 @@ C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Ta
 C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\obj\Debug\BookMana.97D64C48.Up2Date
 C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\obj\Debug\BookManagerApp.exe
 C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\obj\Debug\BookManagerApp.pdb
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookSearch.dll
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookSearch.pdb
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.3\BookManagerApp\bin\Debug\BookSearch.dll.config
