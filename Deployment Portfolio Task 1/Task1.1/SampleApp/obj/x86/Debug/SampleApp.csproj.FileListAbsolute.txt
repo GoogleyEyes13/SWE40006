@@ -1,0 +1,7 @@
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\bin\x86\Debug\SampleApp.exe.config
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\bin\x86\Debug\SampleApp.exe
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\bin\x86\Debug\SampleApp.pdb
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\obj\x86\Debug\SampleApp.csproj.AssemblyReference.cache
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\obj\x86\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\obj\x86\Debug\SampleApp.exe
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 1\Task1.1\SampleApp\obj\x86\Debug\SampleApp.pdb

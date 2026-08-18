@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 1\\Task1.3\\BookManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B98119D6-3350-475D-89F7-2D4B0714B36F}|BookManagerApp.csproj|C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 1\\Task1.3\\BookManagerApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B98119D6-3350-475D-89F7-2D4B0714B36F}|BookManagerApp.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 1\\task1.3\\bookmanagerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B98119D6-3350-475D-89F7-2D4B0714B36F}|BookManagerApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -41,9 +41,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B160F3AA-F65A-4AD2-A4D9-BCD45C52DCB3}|..\\BookLibrary\\BookLibrary.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 1\\task1.3\\booklibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CA42E7-C585-4963-BAA7-A8115DCBE1D2}|..\\BookSearch\\BookSearch.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 1\\task1.3\\booksearch\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -88,8 +85,7 @@
               "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 1\\Task1.3\\BookSearch\\BookSearch.csproj",
               "RelativeToolTip": "..\\BookSearch\\BookSearch.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-08-16T06:09:05.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T06:09:05.718Z"
             },
             {
               "$type": "Document",
@@ -172,8 +168,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAIwFEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T08:34:14.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T08:34:14.193Z"
             },
             {
               "$type": "Document",

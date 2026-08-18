@@ -21,7 +21,7 @@
 
 	<Fragment>
 		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
-			<Component Id="MainExecutable" Guid="99d640d5-a844-4d73-9f9d-30db34faa360">
+			<Component Id="MainExecutable" Guid="7708584B-445A-4CE9-846D-C21A4910224A">
 				<File Id="SampleAppEXE" Source="$(var.SampleApp.TargetPath)" KeyPath="yes"/>
 			</Component>
 		</ComponentGroup>
