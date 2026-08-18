@@ -21,7 +21,7 @@
 
 	<Fragment>
 		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
-			<Component Id="MainExecutable" Guid="e2f0a687-f99d-4306-a48b-d1c515da18f8">
+			<Component Id="MainExecutable" Guid="60BEB0E0-BCA4-49C6-8DA5-1A2EA8FF9995">
 				<File Id="WinFormsAppEXE" Source="$(var.WinFormsApp.TargetPath)" KeyPath="yes"/>
 			</Component>
 		</ComponentGroup>
