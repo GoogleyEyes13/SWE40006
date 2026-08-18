@@ -21,7 +21,7 @@
 
 	<Fragment>
 		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
-			<Component Id="MainExecutable" Guid="01509953-379e-4344-9d56-1cbc83fafe85">
+			<Component Id="MainExecutable" Guid="DCDAE38A-4085-460E-A45A-4839A0C1553D">
 				<File Id="BookManagerAppEXE" Source="$(var.BookManagerApp.TargetPath)" KeyPath="yes" />
 				<File Id="BookLibraryDLL" Source="$(var.BookManagerApp.TargetDir)BookLibrary.dll" />
 				<File Id="BookSearchDLL" Source="$(var.BookManagerApp.TargetDir)BookSearch.dll" />
