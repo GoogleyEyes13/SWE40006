@@ -1,0 +1,7 @@
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.exe
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.dll
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.deps.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.runtimeconfig.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.1\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.pdb
