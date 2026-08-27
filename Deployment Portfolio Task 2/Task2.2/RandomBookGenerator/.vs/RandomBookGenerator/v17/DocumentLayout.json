@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\health.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\health.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\health.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\health.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|solutionrelative:randombookgenerator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED0944D6-E47E-4750-91A5-2FA4F99E73E5}|RandomBookGenerator\\RandomBookGenerator.csproj|c:\\users\\chloe\\onedrive\\documents\\github\\swe40006\\deployment portfolio task 2\\task2.2\\randombookgenerator\\randombookgenerator\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +50,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:56:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Error.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:55:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:55:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:55:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:54:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Health.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Health.cshtml.cs",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Health.cshtml.cs",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Health.cshtml.cs",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\Health.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T10:50:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Health.cshtml",
+              "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Health.cshtml",
+              "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Health.cshtml",
+              "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Health.cshtml",
+              "RelativeToolTip": "RandomBookGenerator\\Pages\\Health.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-27T10:50:00.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Index.cshtml",
@@ -39,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Index.cshtml.cs",
@@ -52,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Models\\Book.cs",
               "RelativeDocumentMoniker": "RandomBookGenerator\\Models\\Book.cs",
