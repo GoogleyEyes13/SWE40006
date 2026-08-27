@@ -1,0 +1,7 @@
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\RandomBookGenerator.exe
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\RandomBookGenerator.dll
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\RandomBookGenerator.deps.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\RandomBookGenerator.runtimeconfig.json
+C:\Users\chloe\OneDrive\Documents\GitHub\SWE40006\Deployment Portfolio Task 2\Task2.2\RandomBookGenerator\RandomBookGenerator\obj\Release\net8.0\PubTmp\Out\RandomBookGenerator.pdb

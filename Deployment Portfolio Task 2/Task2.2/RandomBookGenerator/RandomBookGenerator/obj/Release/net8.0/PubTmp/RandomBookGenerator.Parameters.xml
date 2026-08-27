@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RandomBookGenerator-SWE40006" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment\ Portfolio\ Task\ 2\\Task2\.2\\RandomBookGenerator\\RandomBookGenerator\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
