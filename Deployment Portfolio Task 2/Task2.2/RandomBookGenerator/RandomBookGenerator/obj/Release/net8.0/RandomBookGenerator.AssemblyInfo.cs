@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomBookGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f71c1f7a64c6c181c00bfba6f334db4c3d874fd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5acdcedd4efe1f88ab48fb677e173d3f7fac91e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomBookGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomBookGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

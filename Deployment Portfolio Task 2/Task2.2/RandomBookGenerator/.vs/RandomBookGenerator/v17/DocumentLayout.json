@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Index.cshtml",
               "RelativeToolTip": "RandomBookGenerator\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-27T04:50:51.527Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "RandomBookGenerator\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\chloe\\OneDrive\\Documents\\GitHub\\SWE40006\\Deployment Portfolio Task 2\\Task2.2\\RandomBookGenerator\\RandomBookGenerator\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "RandomBookGenerator\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwCYAAAANAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwHsAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T04:46:40.334Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "RandomBookGenerator\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T04:44:59.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-27T04:44:59.553Z"
             }
           ]
         }

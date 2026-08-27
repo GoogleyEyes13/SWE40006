@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Configuration;
 using RandomBookGenerator.Models;
 
 namespace RandomBookGenerator.Pages
@@ -7,10 +8,14 @@ namespace RandomBookGenerator.Pages
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
+        private readonly IConfiguration _configuration;
 
-        public IndexModel(ILogger<IndexModel> logger)
+        public string AppTitle { get; set; } = "Random Book Generator";
+
+        public IndexModel(ILogger<IndexModel> logger, IConfiguration configuration)
         {
             _logger = logger;
+            _configuration = configuration;
         }
 
         public Book? RandomBook { get; set; }
@@ -108,14 +113,16 @@ namespace RandomBookGenerator.Pages
                 Genre = "Non-fiction, Memoir, Biography"
             }
         };
-        
+
         public void OnGet()
         {
-
+            AppTitle = _configuration["BOOK_GENERATOR_TITLE"] ?? "Random Book Generator";
         }
 
         public void OnPost()
         {
+            AppTitle = _configuration["BOOK_GENERATOR_TITLE"] ?? "Random Book Generator";
+            
             Random random = new Random();
 
             int index = random.Next(Books.Count);
